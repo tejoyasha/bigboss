@@ -1,0 +1,10 @@
+# Please ignore *.bak files
+*.bak
+# ignore .org extensions
+*.org
+# all text files
+[aeiou]*.txt
+# ignore php files
+*.php
+# but do not ignore index.php
+!index.php
