@@ -1,4 +1,4 @@
-root:x:0:
+boot:x:0:
 bin:x:1:
 daemon:x:2:
 sys:x:3:
